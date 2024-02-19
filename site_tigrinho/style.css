@@ -1,0 +1,52 @@
+body{
+  background-color:#d5992a;
+}
+h2{
+  color: #ffa600;
+  -webkit-text-stroke: 1.5px #000000;
+  outline:2.5px solid black;
+  background-color: #ffbd61;
+  font-family:rockwell;
+}
+#TP{
+  color:white;
+  outline:2px solid white;
+  background-color: #ff6714;
+}
+h1,#sobre,.aviso,.foto{
+  text-align: center;
+  font-family: rockwell;
+}
+h2{
+  text-align: center;
+}
+.aviso{
+  color: red;
+  font-size: 30px;
+}
+table{
+  background-color: #f2ae31;
+}
+.botoes{
+  color: #ffffff;
+}
+.bts{
+  text-align: center;
+}
+#vt{
+ text-align: center; 
+}
+h3{
+  text-align: center;
+  font-family: rockwell;
+  color: white;
+  font-size: 30px;
+  -webkit-text-stroke: 1.5px #ff0000;
+}
+ul{
+  text-align: center;
+  display: inline;
+}
+a{
+  color:white;
+}
